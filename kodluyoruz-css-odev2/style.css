@@ -1,0 +1,39 @@
+header {
+text-align: center;
+width: 1400px;
+margin: auto;
+}
+
+.s-box {
+    text-align: center;
+    width: 1400px;
+    background-color: #EEEEEE;
+    margin: auto;
+}
+
+.s-google {
+    margin: 0;
+    width: 1400px;
+}
+
+.box {
+    background-color:#62B3AA; 
+    margin: 1px;
+    text-align: center; 
+    width: 32%;
+    padding: 1px;
+    
+}
+
+.content {
+    margin: 0 auto;
+}
+.container {
+
+    width:1400px; 
+    margin:auto; 
+    display: flex; 
+    padding:0 2px 0 2px;
+    justify-content: center; 
+    align-items: stretch;
+}
